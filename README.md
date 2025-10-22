@@ -1,4 +1,4 @@
-<h1>Dynamic data structure "Linked List"</h1>
+<h1>Dynamic structure data "Linked List"</h1>
 
 <h2>example use:</h2>
 
