@@ -10,7 +10,7 @@ class LinkedList {
     }
 
     fun append(value: String) {
-        val node: Node = Node(value)
+        val node = Node(value)
         if(head == null) {
             head = node
             return
